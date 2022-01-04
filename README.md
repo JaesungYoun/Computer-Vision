@@ -23,7 +23,7 @@
 ## 1) Gradient    
 
 <img src = "https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png" align ="left" width="300" height="300">                           
-<img src = "https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png" align ="center" width="300" height="300">
+<img src = "https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png" align ="left" width="300" height="300">
 
 
 
