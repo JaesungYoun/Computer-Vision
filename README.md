@@ -30,7 +30,7 @@
 
 ## 2) Derivative of Box Filter       
 
-![image](https://user-images.githubusercontent.com/73388615/148052931-c0f237ac-1e2a-49e7-83a6-48efd880a2eb.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148052931-c0f237ac-1e2a-49e7-83a6-48efd880a2eb.png" width="300" height="300">
 
 
 
@@ -40,25 +40,25 @@
                
                    
 
-![image](https://user-images.githubusercontent.com/73388615/148052999-2635b182-b6e0-46d6-80c2-e7d6b842afe7.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148052999-2635b182-b6e0-46d6-80c2-e7d6b842afe7.png" align ="left" width="300" height="300">
 
-![image](https://user-images.githubusercontent.com/73388615/148053028-9fa6af12-6b7c-408f-8a3e-fd0c8659a9bc.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148053028-9fa6af12-6b7c-408f-8a3e-fd0c8659a9bc.png" align ="center" width="300" height="300">
 
-![image](https://user-images.githubusercontent.com/73388615/148053554-9399942b-2cf6-49d3-b921-62004eb706df.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148053554-9399942b-2cf6-49d3-b921-62004eb706df.png">
 
 
 
 ## 4) Differnce of Gaussian(DoG)     
 
 
-![image](https://user-images.githubusercontent.com/73388615/148053126-7a767ccc-673f-4790-9a03-2400bc03bd32.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148053126-7a767ccc-673f-4790-9a03-2400bc03bd32.png" width="300" height="300">
 
 
 ## 5) Laplacian of Gaussian(LoG)
 
-![image](https://user-images.githubusercontent.com/73388615/148053172-dff7bc8b-77f9-4f19-80cf-ecd620230a5c.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148053172-dff7bc8b-77f9-4f19-80cf-ecd620230a5c.png" align ="left" width="300" height="300">
 
-![image](https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png)
+<img src = "https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png" align ="center" width="300" height="300">
 
 
 
