@@ -22,11 +22,16 @@
 
 
 
-## 3) Derivative of Gaussian(DoG)      
+## 3) Derivative of Gaussian(DoG)           
+        
+               
+                   
 
 ![image](https://user-images.githubusercontent.com/73388615/148052999-2635b182-b6e0-46d6-80c2-e7d6b842afe7.png)
 
 ![image](https://user-images.githubusercontent.com/73388615/148053028-9fa6af12-6b7c-408f-8a3e-fd0c8659a9bc.png)
+
+![image](https://user-images.githubusercontent.com/73388615/148053554-9399942b-2cf6-49d3-b921-62004eb706df.png)
 
 
 
