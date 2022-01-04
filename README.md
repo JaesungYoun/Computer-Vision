@@ -8,7 +8,7 @@
 
 ### 1) Gradient    
 
-![image](https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png)    ![image](https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png)
+![image](https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png)                             ![image](https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png)
 
 
 
