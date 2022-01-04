@@ -6,9 +6,18 @@
 
 5가지 방법 사용
 
-<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left">       <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="right">                            
+<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left">       <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="right">         
 
 
+
+
+
+       
+          
+           
+            
+             
+                 
 
 
 ## 1) Gradient    
