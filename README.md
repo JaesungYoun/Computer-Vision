@@ -6,7 +6,7 @@
 
 5가지 방법 사용
 
-<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left" width="300" height="300">  <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="center" width="300" height="300">         
+<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left" width="00" height="300">  <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="center" width="300" height="300">         
 
 
 
@@ -51,14 +51,14 @@
 ## 4) Differnce of Gaussian(DoG)     
 
 
-<img src = "https://user-images.githubusercontent.com/73388615/148053126-7a767ccc-673f-4790-9a03-2400bc03bd32.png" width="300" height="300">
+<img src = "https://user-images.githubusercontent.com/73388615/148053126-7a767ccc-673f-4790-9a03-2400bc03bd32.png" width="800" height="300">
 
 
 ## 5) Laplacian of Gaussian(LoG)
 
 <img src = "https://user-images.githubusercontent.com/73388615/148053172-dff7bc8b-77f9-4f19-80cf-ecd620230a5c.png" align ="left" width="300" height="300">
 
-<img src = "https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png" align ="center" width="500" height="300">
+<img src = "https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png" align ="center" width="800" height="300">
 
 
 
