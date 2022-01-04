@@ -6,28 +6,13 @@
 
 5가지 방법 사용
 
-<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left">       <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="right">         
+<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG" align ="left">  <img src= "https://user-images.githubusercontent.com/73388615/148071798-2543ae51-3866-4c9b-adf9-54fc3ee936d4.png" align ="right">         
 
 
 
 
 
-       
-          
-           
-            
-             
-                 
-
-
-## 1) Gradient    
-
-![image](https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png)                             
-
-![image](https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png)
-
-
-
+      
 
 ## 2) Derivative of Box Filter       
 
