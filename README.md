@@ -6,7 +6,7 @@
 
 5가지 방법 사용
 
-<src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG">                               ![image](https://user-images.githubusercontent.com/73388615/148053911-115c43bf-8f34-40da-9293-b7fc2529d3d2.png)
+<img src="https://user-images.githubusercontent.com/73388615/148070717-fa7d61f6-3d40-4600-bcda-661c0f541c06.PNG">                               ![image](https://user-images.githubusercontent.com/73388615/148053911-115c43bf-8f34-40da-9293-b7fc2529d3d2.png)
 
 
 
