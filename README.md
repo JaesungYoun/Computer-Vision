@@ -23,7 +23,7 @@
 ## 1) Gradient    
 
 <img src = "https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png" align ="left" width="300" height="300">                           
-<img src = "https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png" align ="left" width="300" height="300">
+<img src = "https://user-images.githubusercontent.com/73388615/148052796-cf1c6945-9862-41cf-b3c3-67b98da6d75f.png" align ="center" width="300" height="300">
 
 
 
@@ -60,7 +60,7 @@
 
 <img src = "https://user-images.githubusercontent.com/73388615/148053172-dff7bc8b-77f9-4f19-80cf-ecd620230a5c.png" align ="left" width="300" height="300">
 
-<img src = "https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png" align ="center" width="700" height="300">
+<img src = "https://user-images.githubusercontent.com/73388615/148053221-18fac25d-8d8f-49e8-9ba7-d933afef3535.png" align ="left" width="700" height="300">
 
 
 
