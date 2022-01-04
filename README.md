@@ -6,6 +6,12 @@
 
 5가지 방법 사용
 
+<img width="222" alt="original_image" src="https://user-images.githubusercontent.com/73388615/148053655-57c71f03-bb89-4fd6-82e4-f871bf677ee0.PNG">    ->     ![Derivative of Gaussian](https://user-images.githubusercontent.com/73388615/148053687-6641397e-6349-4301-9fe4-17a3c3d730e9.png)
+
+
+
+
+
 ## 1) Gradient    
 
 ![image](https://user-images.githubusercontent.com/73388615/148052770-a8ff5530-0a5f-4046-9a6b-f33a78929549.png)                             
